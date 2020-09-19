@@ -1,0 +1,2 @@
+O sistema foi desenvolvido com o intuito de obter a segunda nota da materia de computação grafica.
+foi criado em 08/05/2016

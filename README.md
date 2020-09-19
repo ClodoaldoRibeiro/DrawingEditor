@@ -1,2 +1,2 @@
-# DrawingEditor
-Editor de desenho em Java
+# Drawing Editor
+Desenvolvimento de um aplicativo editor de desenho para a cadeira de Computação grafica.
