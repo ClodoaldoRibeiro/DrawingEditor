@@ -28,7 +28,7 @@ Apenas ter o jre do java instalado e fazer o donwlod do [DrawingEditor](https://
 <br /> 
 <p align="center">
 <img src="https://github.com/ClodoaldoRibeiro/DrawingEditor/blob/master/Screenshot/menu.png" alt="Proffy"/>
-<h5 align="center">Tela2: Recuperar minha senha </h5>
+<h5 align="center">Tela2: Menu </h5>
 </p>
 
 
