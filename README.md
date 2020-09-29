@@ -11,8 +11,8 @@ Porjeto criado para desenvolver as habilidades com Java 8.
 ## Tecnologias
 As tecnologias usadas até o momento são:
 
-* [Orocle JDK-8u202](https://www.oracle.com/br/java/technologies/javase-downloads.html) Bilbioteca Java
-* [NetBeans IDE 8.2](https://netbeans.org/downloads/8.2/rc/) Ambiente de desenvolvimento
+* [Orocle JDK-8u202](https://www.oracle.com/br/java/technologies/javase-downloads.html) - Bilbioteca Java
+* [NetBeans IDE 8.2](https://netbeans.org/downloads/8.2/rc/) - Ambiente de desenvolvimento
 
 
 
